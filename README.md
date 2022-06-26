@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Cyber-Whiz
-- 👀 I’m interested in Cybersecurity, Penetration Testing
-- 🌱 I’m currently learning Python3 
-- 💞️ I’m looking to collaborate on a Python project
+Hi- 👋 Hi, I’m @Cyber-Whiz
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python
 - 📫 How to reach me @Whatsapp :+2349072288110
 
 <!---
